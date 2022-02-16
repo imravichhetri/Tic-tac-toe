@@ -1,0 +1,16 @@
+.board .cell {
+  background-color: black;
+}
+.board .cell .one {
+  background-color: black;
+}
+
+.board {
+  .cell {
+    background-color: black;
+    .one {
+
+    }
+  }
+  & > .one 
+}
